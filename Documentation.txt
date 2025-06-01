@@ -1,0 +1,28 @@
+npm run dev, npm start
+node server.js
+
+the content will be displayed using the arrays in assets.js file.
+
+layout.js -->title and description
+page.js -->layout of the webpage.
+
+
+es7/react-redux has rafce snippet.
+<> </> react fragement 
+
+items-center
+text-center
+Justify-center
+flex 
+
+
+
+
+
+
+
+
+
+
+
+
